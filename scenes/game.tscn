@@ -16,7 +16,7 @@ y_sort_enabled = true
 texture_filter = 1
 
 [node name="Player" parent="World" instance=ExtResource("2_daqma")]
-position = Vector2(147, 126)
+position = Vector2(150, 115)
 
 [node name="FollowingCamera" parent="World/Player" instance=ExtResource("3_veamr")]
 zoom = Vector2(4, 4)
