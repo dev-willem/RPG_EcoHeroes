@@ -1,5 +1,5 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1702605583
+::res://::1702956428
 icon.svg::CompressedTexture2D::2144703951262213352::1702263911::1702556013::1::::<><>::
 README.md::TextFile::-1::1702555663::0::1::::<><>::
 ::res://actors/::1702263911
@@ -51,8 +51,8 @@ slime.tscn::PackedScene::7898032082866337894::1702263911::0::1::::<><>::res://ac
 ::res://actors/slime/states/::1702263911
 chase.gd::GDScript::-1::1702263911::0::1::::<>State<>::
 idle.gd::GDScript::-1::1702263911::0::1::::<>State<>::
-::res://assets/::1702605383
-tileset.tres::TileSet::967147987315964959::1702605383::0::1::::<><>::uid://bm8emt8aiyq3u::::res://assets/sprites/tilesets/grass.png<>uid://j3igiyyubew2::::res://objects/nature/big_tree.tscn<>uid://deoqyeme8qfdj::::res://assets/sprites/tilesets/plains.png<>uid://bn1ixpcwhnggq::::res://objects/nature/bush.tscn<>uid://3tnyrrxd3eet::::res://assets/sprites/tilesets/fences.png<>uid://bfdhta480x5u::::res://objects/nature/rock.tscn<>uid://bxenar7xjx43v::::res://assets/sprites/objects/objects.png<>uid://d4kvw7vot2vt7::::res://objects/nature/tree.tscn<>uid://dxq2wx7ttsyh3::::res://objects/nature/trunk.tscn<>uid://bwm1nuwkrv2u3::::res://objects/others/box.tscn<>uid://d1gou8vmotl2p::::res://objects/others/chest.tscn<>uid://fial3xweeepx::::res://objects/others/sign.tscn
+::res://assets/::1702830558
+tileset.tres::TileSet::967147987315964959::1702830558::0::1::::<><>::uid://bm8emt8aiyq3u::::res://assets/sprites/tilesets/grass.png<>uid://j3igiyyubew2::::res://objects/nature/big_tree.tscn<>uid://deoqyeme8qfdj::::res://assets/sprites/tilesets/plains.png<>uid://bn1ixpcwhnggq::::res://objects/nature/bush.tscn<>uid://3tnyrrxd3eet::::res://assets/sprites/tilesets/fences.png<>uid://bfdhta480x5u::::res://objects/nature/rock.tscn<>uid://bxenar7xjx43v::::res://assets/sprites/objects/objects.png<>uid://d4kvw7vot2vt7::::res://objects/nature/tree.tscn<>uid://dxq2wx7ttsyh3::::res://objects/nature/trunk.tscn<>uid://bwm1nuwkrv2u3::::res://objects/others/box.tscn<>uid://d1gou8vmotl2p::::res://objects/others/chest.tscn<>uid://fial3xweeepx::::res://objects/others/sign.tscn
 ::res://assets/fonts/::1702556013
 ThaleahFat.ttf::FontFile::1113062345470409249::1702263911::1702556013::1::::<><>::
 ::res://assets/sprites/::1702263911
@@ -108,8 +108,8 @@ trunk.tscn::PackedScene::8808315403449800202::1702263911::0::1::::<><>::uid://bx
 box.tscn::PackedScene::3956950718841851816::1702263911::0::1::::<><>::uid://bxenar7xjx43v
 chest.tscn::PackedScene::8997445772245473929::1702263911::0::1::::<><>::uid://bkcyi2cp2xs4w
 sign.tscn::PackedScene::367480391144986629::1702263911::0::1::::<><>::uid://bxenar7xjx43v
-::res://scenes/::1702605383
-game.tscn::PackedScene::3260734400037479207::1702605383::0::1::::<><>::uid://cadl6hjl3d2cy::::res://actors/player/player.tscn<>uid://dv80br81ts75r::::res://scenes/level1.tscn<>uid://c7xys4tvomgme::::res://actors/player/following_camera.tscn<>uid://c8aloe8fjvwr4::::res://scenes/components/transition_effect.tscn
+::res://scenes/::1702830625
+game.tscn::PackedScene::3260734400037479207::1702830625::0::1::::<><>::uid://cadl6hjl3d2cy::::res://actors/player/player.tscn<>uid://dv80br81ts75r::::res://scenes/level1.tscn<>uid://c7xys4tvomgme::::res://actors/player/following_camera.tscn<>uid://c8aloe8fjvwr4::::res://scenes/components/transition_effect.tscn
 level1.tscn::PackedScene::8702872889057977421::1702475044::0::1::::<><>::uid://j3igiyyubew2
 level2.tscn::PackedScene::8520216221066915128::1702475044::0::1::::<><>::uid://n1q1yw4t2q60
 ::res://scenes/components/::1702556013

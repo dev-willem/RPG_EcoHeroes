@@ -1,4 +1,4 @@
-[gd_scene load_steps=30 format=3 uid="uid://dkr4o1jd2byx7"]
+[gd_scene load_steps=29 format=3 uid="uid://dkr4o1jd2byx7"]
 
 [ext_resource type="Script" path="res://actors/slime/slime.gd" id="1_af3cn"]
 [ext_resource type="Texture2D" uid="uid://bwuhwa5tp1o0j" path="res://assets/sprites/characters/slime.png" id="2_tphau"]
@@ -118,10 +118,8 @@ states/Walk/position = Vector2(560, 87)
 transitions = ["Start", "Idle", SubResource("AnimationNodeStateMachineTransition_dgi6v"), "Idle", "Walk", SubResource("AnimationNodeStateMachineTransition_5u8wo"), "Walk", "Idle", SubResource("AnimationNodeStateMachineTransition_vxnh1")]
 graph_offset = Vector2(-4, 28)
 
-[sub_resource type="AnimationNodeStateMachinePlayback" id="AnimationNodeStateMachinePlayback_y1s54"]
-
 [sub_resource type="CircleShape2D" id="CircleShape2D_uyxaa"]
-radius = 62.0725
+radius = 109.018
 
 [sub_resource type="CircleShape2D" id="CircleShape2D_rswap"]
 radius = 9.0
@@ -155,7 +153,6 @@ libraries = {
 tree_root = SubResource("AnimationNodeStateMachine_8ruhm")
 anim_player = NodePath("../AnimationPlayer")
 active = true
-parameters/playback = SubResource("AnimationNodeStateMachinePlayback_y1s54")
 
 [node name="DetectionArea" parent="." instance=ExtResource("3_jidwr")]
 

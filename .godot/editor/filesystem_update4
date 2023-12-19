@@ -1,2 +1,7 @@
 res://scenes/game.tscn
 res://assets/tileset.tres
+res://actors/player/player.tscn
+res://actors/components/status/health.gd
+res://scenes/level1.tscn
+res://actors/slime/slime.tscn
+res://scenes/level2.tscn

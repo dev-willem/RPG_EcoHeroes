@@ -244,6 +244,54 @@ position = Vector2(856, 129)
 texture_filter = 1
 position = Vector2(434, 47)
 
+[node name="Slime8" parent="Enemies" node_paths=PackedStringArray("anim_player", "anim_tree") instance=ExtResource("6_j1ocw")]
+texture_filter = 1
+position = Vector2(582, 11)
+anim_player = NodePath("../Slime/AnimationPlayer")
+anim_tree = NodePath("../Slime/AnimationTree")
+
+[node name="Slime9" parent="Enemies" node_paths=PackedStringArray("anim_player", "anim_tree") instance=ExtResource("6_j1ocw")]
+texture_filter = 1
+position = Vector2(519, 183)
+anim_player = NodePath("../Slime/AnimationPlayer")
+anim_tree = NodePath("../Slime/AnimationTree")
+
+[node name="Slime10" parent="Enemies" node_paths=PackedStringArray("anim_player", "anim_tree") instance=ExtResource("6_j1ocw")]
+texture_filter = 1
+position = Vector2(411, 138)
+anim_player = NodePath("../Slime/AnimationPlayer")
+anim_tree = NodePath("../Slime/AnimationTree")
+
+[node name="Slime11" parent="Enemies" node_paths=PackedStringArray("anim_player", "anim_tree") instance=ExtResource("6_j1ocw")]
+texture_filter = 1
+position = Vector2(129, 333)
+anim_player = NodePath("../Slime/AnimationPlayer")
+anim_tree = NodePath("../Slime/AnimationTree")
+
+[node name="Slime12" parent="Enemies" node_paths=PackedStringArray("anim_player", "anim_tree") instance=ExtResource("6_j1ocw")]
+texture_filter = 1
+position = Vector2(226, 348)
+anim_player = NodePath("../Slime/AnimationPlayer")
+anim_tree = NodePath("../Slime/AnimationTree")
+
+[node name="Slime13" parent="Enemies" node_paths=PackedStringArray("anim_player", "anim_tree") instance=ExtResource("6_j1ocw")]
+texture_filter = 1
+position = Vector2(393, 302)
+anim_player = NodePath("../Slime/AnimationPlayer")
+anim_tree = NodePath("../Slime/AnimationTree")
+
+[node name="Slime14" parent="Enemies" node_paths=PackedStringArray("anim_player", "anim_tree") instance=ExtResource("6_j1ocw")]
+texture_filter = 1
+position = Vector2(599, -2)
+anim_player = NodePath("../Slime/AnimationPlayer")
+anim_tree = NodePath("../Slime/AnimationTree")
+
+[node name="Slime15" parent="Enemies" node_paths=PackedStringArray("anim_player", "anim_tree") instance=ExtResource("6_j1ocw")]
+texture_filter = 1
+position = Vector2(574, -14)
+anim_player = NodePath("../Slime/AnimationPlayer")
+anim_tree = NodePath("../Slime/AnimationTree")
+
 [node name="Trees" type="Node2D" parent="."]
 y_sort_enabled = true
 texture_filter = 1

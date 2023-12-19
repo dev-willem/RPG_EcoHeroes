@@ -752,9 +752,9 @@ hurtbox = NodePath("../Hurtbox")
 
 [node name="Healthbar" parent="." node_paths=PackedStringArray("health_component") instance=ExtResource("9_qektd")]
 offset_left = -6.5
-offset_top = 4.5
+offset_top = -18.0
 offset_right = 19.5
-offset_bottom = 8.5
+offset_bottom = -14.0
 rounded = true
 health_component = NodePath("../Statuses/Health")
 metadata/_edit_use_anchors_ = true

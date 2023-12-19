@@ -6,9 +6,9 @@ extends Node
 signal health_changed(old_amount: float, new_amount: float)
 signal health_depleted
 
-var health : float = 100
+var health : float = 80
 
-@export var max_health : float = 100
+@export var max_health : float = 80
 
 
 func _ready() -> void:
